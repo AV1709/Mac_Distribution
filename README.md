@@ -1,7 +1,10 @@
+# Mac_Distribution
 Um die Anwendung zur Erstellung einer standardisierten Muskoskelettalen Befunderhebung erstmals nutzen zu können, müssen Sie einige Schritte zur Installation durchführen.
 
+## Installation Windows
 Falls Sie einen Windows-Rechner nutzen, dann folgen Sie den Schritten [hier](https://github.com/AV1709/Windows_Distribution).
 
+## Installation Mac
 Falls Sie einen Mac (Apple-Rechner) nutzen, dann folgen Sie den folgenden Schritten:
 Sollten Sie das Programm schon komplett installiert haben, springen sie zu Schritt 7 zum Starten der Webapp.
 
@@ -28,3 +31,7 @@ Schritt 7: Führen sie die Datei “Muskoskelettale_Befunderhebung.command” au
 
 (Schritt 8: Falls beim Ausführen der Datei “Muskoskelettale_Befunderhebung.command” eine Warnung kommt, dass die Datei nicht vertrauenswürdig ist, dann verschieben Sie sie nicht in den Papierkorb.
 Öffnen Sie Ihre Einstellungen unter “Privacy & Security”  und klicken Sie unten auf den Button “Open Anyway”. Dies sollte nur einmalig nötig sein.)
+
+## zu beachten:
+Bitte verschieben sie die Datei “Muskoskelettale_Befunderhebung.command” nicht aus dem Ordner heraus, sie funktioniert nur, wenn sie im gleichen Ordner wie die "app_files" liegt.
+Falls Sie eine gut zu erreichende Datei bspw. auf dem Desktop benötigen, dann erstellen Sie ein Alias der “Muskoskelettale_Befunderhebung.command”-Datei (rechtsklick auf die Datei -> Alias erzeugen)
