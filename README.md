@@ -5,14 +5,16 @@ Falls Sie einen Windows-Rechner nutzen, dann folgen Sie den Schritten unter #Lin
 Falls Sie einen Mac (Apple-Rechner) nutzen, dann folgen Sie den folgenden Schritten:
 Sollten Sie das Programm schon komplett installiert haben, springen sie zu Schritt 7 zum Starten der Webapp.
 
-Schritt 1: Laden Sie die Python-Version 3.13.2 herunter (macOS 64-bit universal2 installer).
+Schritt 1: Laden Sie die Python-Version 3.13.2 herunter [macOS 64-bit universal2 installer](https://www.python.org/ftp/python/3.13.2/python-3.13.2-macos11.pkg).
 
 Schritt 2: Installieren sie diese Python-Version, indem Sie die gerade heruntergeladenen Datei öffnen.
 
 Schritt 3: Öffnen Sie das Terminal (einfach erreichbar über Command+Leertaste -> Terminal).
 
 Schritt 4: Kopieren sie folgende Zeile in das geöffnete Terminal und drücken Sie Enter:
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 Dies installiert Homebrew, ein Packetsystem, welches Python bei der Installation benötigter Bibliotheken unterstützt.
 Die Installation von Homebrew über das Terminal benötigt das Administrator-Passwort (nachdem sie Enter gedrückt haben und einige Zeilen Code im Terminal vorbeigesaust sind, fragt es nach dem Passwort).
 Falls Sie keine Administrator-Rechte haben, dann können Sie das Programm in jetzigen Entwicklungsstand leider nicht auf einem Mac nutzen.
