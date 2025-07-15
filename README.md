@@ -26,7 +26,7 @@ Nach der Installation von Homebrew können Sie das Terminal schließen.
 
 **Schritt 6:** Verschieben Sie den Ordner in das gewollte Verzeichnis.
 
-**Schritt 7:**: Führen sie die Datei “Muskoskelettale_Befunderhebung.command” aus, diese öffnet das Programm in ihrem Standard-Webbrowser. Hier müssen Sie die Seite noch einmal neu laden.
+**Schritt 7:** Führen sie die Datei “Muskoskelettale_Befunderhebung.command” aus, diese öffnet das Programm in ihrem Standard-Webbrowser. Hier müssen Sie die Seite noch einmal neu laden.
 
 (**Schritt 8:** Falls beim Ausführen der Datei “Muskoskelettale_Befunderhebung.command” eine Warnung kommt, dass die Datei nicht vertrauenswürdig ist, dann verschieben Sie sie nicht in den Papierkorb.
 Öffnen Sie Ihre Einstellungen unter “Privacy & Security”  und klicken Sie unten auf den Button “Open Anyway”. Dies sollte nur einmalig nötig sein.)
